@@ -6,3 +6,7 @@ Flask
 flask
 Pillow
 bakong_khqr==0.2.8
+Flask==2.2.3
+pyTelegramBotAPI==4.0.0
+bakong_khqr==0.2.8
+python-telegram-bot==20.0  # Add this line
