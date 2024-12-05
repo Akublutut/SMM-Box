@@ -5,3 +5,4 @@ pyTelegramBotAPI
 Flask
 flask
 Pillow
+bakong_khqr==0.2.8
