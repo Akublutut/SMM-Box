@@ -1,6 +1,5 @@
 Flask==2.2.3
 pyTelegramBotAPI==4.0.0
-bakong_khqr==<version>
 aiogram==2.23.1
 pyTelegramBotAPI
 Flask
